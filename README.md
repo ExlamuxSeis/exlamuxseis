@@ -6,9 +6,9 @@ Hola, Soy Exlamux6!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeniería+en+Desarrollo+y+Gestión+de+Software;Sí+mi+código+funciona...+no+le+muevas;PHP+no+está+muerto;Disponible+para+colaborar+en+proyectos&center=true&width=780&height=45"></a>
 </p>
-
-
-<h1>Habilidades <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px> </h1>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exlamuxseis&theme=blueberry_duo"/>
+</p>
 
 
 <h2>  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">  Lenguajes de Programación</h2>
@@ -31,7 +31,7 @@ Hola, Soy Exlamux6!
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h2>☁ Base de datos y Cloud Hosting</h2>
+<h2>☁ Base de Datos y Cloud Hosting</h2>
 <span>
   <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -53,7 +53,7 @@ Hola, Soy Exlamux6!
 
 </span>
 
-<h2>⚙ Sistemas operativos</h2>
+<h2>⚙ Sistemas Operativos</h2>
 
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -84,9 +84,9 @@ Hola, Soy Exlamux6!
   </a>
 </span>
 
-<h2>Mis actividades de GitHub</h2>
+<h2>Mis Actividades de GitHub</h2>
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                                                                                                                                          |                                                                                                                                   |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Exlamuxseis&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exlamuxseis&langs_count=8&theme=algolia&layout=compact) |
 
