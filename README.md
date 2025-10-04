@@ -4,7 +4,7 @@ Hola, Soy Exlamux6!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeniería+en+Desarrollo+y+Gestión+de+Software;Sí+mi+código+funciona...+no+le+muevas;PHP+no+está+muerto;Disponible+para+colaborar+en+proyectos&center=true&width=780&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingenierio+en+Desarrollo+y+Gestión+de+Software;Sí+mi+código+funciona...+no+le+muevas;PHP+no+está+muerto;Disponible+para+colaborar+en+proyectos&center=true&width=780&height=45"></a>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exlamuxseis&theme=blueberry_duo"/>
